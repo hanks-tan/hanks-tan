@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello, anything 👋
+![](https://komarev.com/ghpvc/?username=hanks-tan&style=flat&color=brightgreen)
 
 <!--
 **hanks-tan/hanks-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&title_color=#8BC34A)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark)](https://github.com/hanks-tan/covid-19-map)
+
