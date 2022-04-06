@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark)](https://github.com/hanks-tan/covid-19-map)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=8&card_width=430"/>
+</div>
+
 
