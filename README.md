@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
   <div style="display:flex">
     <a href="">
-      <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
-      <img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=7&card_width=430"/>
+      <img align="center" height="180" width="380" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
+      <img align="right" height="180" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=7&card_width=430"/>
     </a>
   </div>
 
