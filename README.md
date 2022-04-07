@@ -16,9 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About me
+- 职业 webgis开发
+- 技能点
+  - 前端技能 vue、js
+  - 专业技能 
+    - openlayers、mapbox
+    - geoserver、postgis
+    - arcgis、qgis
+  - 后端 python
+- 现居地 广东-深圳
+- 爱好 足球、羽毛球、户外
+
   <div style="display:flex">
-    <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
-    <img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=8&card_width=430"/>
+    <a href="">
+      <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
+      <img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=7&card_width=430"/>
+    </a>
   </div>
 
 
