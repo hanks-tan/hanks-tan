@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 ### About me
 - 职业 webgis开发
 - 技能点
-  - 前端技能 vue、js
-  - 专业技能 
-    - openlayers、mapbox
-    - geoserver、postgis
-    - arcgis、qgis
-  - 后端 python
+   vue、js、openlayers、mapbox、geoserver、postgis、arcgis、qgis、python
 - 现居地 广东-深圳
 - 爱好 足球、羽毛球、户外
 
