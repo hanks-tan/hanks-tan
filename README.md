@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=8&card_width=430"/>
-</div>
+  <div style="display:flex">
+    <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&show_icons=true&theme=dark&show_icons=true"/>
+    <img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&layout=compact&theme=dark&langs_count=8&card_width=430"/>
+  </div>
 
 
