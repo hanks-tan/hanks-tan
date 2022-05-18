@@ -46,11 +46,9 @@ Here are some ideas to get you started:
 
    <a href="https://github.com/hanks-tan">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&theme=dark&show_icons=true" />
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&theme=dark&layout=compact&card_width=400&langs_count=7" />
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&theme=dark&layout=compact&card_width=430&langs_count=7" />
    </a>
    
   -------------
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hanks-tan&repo=covid-19-map)](https://github.com/hanks-tan/covid-19-map)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hanks-tan&repo=csv2png)](https://github.com/hanks-tan/csv2png)
 
 
