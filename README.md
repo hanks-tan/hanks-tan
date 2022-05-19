@@ -48,4 +48,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hanks-tan&theme=dark&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanks-tan&theme=dark&layout=compact&card_width=430&langs_count=7" />
 </a>
-   
+
+### Last week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
