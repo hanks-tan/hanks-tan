@@ -51,4 +51,11 @@ Here are some ideas to get you started:
 
 ### Last week
 <!--START_SECTION:waka-->
+
+```text
+Markdown     50 mins         █████████████████▒░░░░░░░   69.85 %
+Vue.js       21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
