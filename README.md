@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js                     12 hrs 19 mins  ████████████░░░░░░░░░░░░░   48.04 %
-TypeScript                 7 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
-JavaScript                 4 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-JSON                       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-YAML                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown                   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Vue.js                     10 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   41.69 %
+TypeScript                 7 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 %
+JavaScript                 4 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+JSON                       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Nginx configuration file   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+YAML                       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
