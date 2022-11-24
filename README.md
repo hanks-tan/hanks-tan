@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       8 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.37 %
-JavaScript   8 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.18 %
-HTML         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Markdown     1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-SCSS         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Vue.js       10 hrs 39 mins  ████████████▓░░░░░░░░░░░░   51.25 %
+JavaScript   5 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
+HTML         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+SCSS         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+LESS         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
