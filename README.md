@@ -53,11 +53,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 24 mins   ███████████████████████░░   92.14 %
-Vue.js       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Python       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
