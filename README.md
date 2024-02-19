@@ -53,7 +53,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 57 mins    █████████████░░░░░░░░░░░░   51.52 %
+JSON         1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+Vue.js       40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
