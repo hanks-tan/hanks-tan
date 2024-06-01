@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       7 hrs 34 mins   █████████████░░░░░░░░░░░░   52.08 %
-JavaScript   6 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.40 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Vue.js       7 hrs 17 mins   █████████████▒░░░░░░░░░░░   53.23 %
+JavaScript   6 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
